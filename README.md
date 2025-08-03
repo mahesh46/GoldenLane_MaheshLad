@@ -1,2 +1,2 @@
 # GoldenLane_MaheshLad
-GoldenLane short SwiftUI take-home challenge 
+GoldenLane short SwiftUI take-home challenge .
